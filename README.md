@@ -79,9 +79,9 @@ sudo systemctl stop frps
 
 先 **git clone** 本仓库,并正确配置 **frps.toml** 文件.
 ```shell
-git clone https://github.com/stilleshan/frps
+git clone https://github.com/jfvip/frps
 # git clone 本仓库
-git clone https://ghfast.top/https://github.com/stilleshan/frps
+git clone https://ghfast.top/https://github.com/jfvip/frps
 # 国内镜像
 vi /root/frps/frps.toml
 # 配置 frps.toml 文件
